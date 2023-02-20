@@ -1,0 +1,7 @@
+Hello world 
+Git commond 
+ git init
+git status 
+git add .
+git commit -m "comment  here "
+guit push  local =>github 
