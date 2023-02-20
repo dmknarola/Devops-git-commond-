@@ -1,0 +1,9 @@
+cherry picking commit  chose from one branch to another branch 
+git log 
+git merge 
+git cheery pick no
+=>it tranform from o=one branch to another
+=>this is used of cherry pick 
+#create the new file  
+touch file name 
+## Git Merge vs Git Rebase 
