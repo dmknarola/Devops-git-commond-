@@ -1,0 +1,5 @@
+git revert
+git push 
+git branch  name
+git branch 
+git log(for history) 
